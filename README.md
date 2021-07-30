@@ -1,2 +1,2 @@
 # Learning_Cirq
-This is a personal rep for store lecture code for quantum computing using Cirq.
+This is a personal rep for storing lecture code of quantum computing using Cirq.
